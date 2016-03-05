@@ -1,13 +1,21 @@
 {
-	"name": "steinkel/LogMail",
+	"name": "sams/LogMail",
 	"type": "cakephp-plugin",
 	"description": "LogMail is a quick and dirty plugin to store all mail sent to the database and display latest emails in a DebugKit Panel.",
 	"keywords": ["cakephp", "DebugKit"],
-	"homepage": "https://github.com/steinkel/LogMail",
+	"homepage": "https://github.com/sams/LogMail",
 	"license": "MIT",
 	"authors": [
+        {
+            "name": "Sam Sherlock",
+            "homepage": "http://www.samsherlock.com"
+        },
+        {
+            "name": "Wesley Hurd",
+            "homepage": "https://github.com/whurdwfd"
+        },
 		{
-			"name": "Jorge M. González Martín",
+	        "name": "Jorge M. González Martín",
 			"homepage": "http://twitter.com/steinkelz"
 		}
 	],
