@@ -23,6 +23,6 @@
 	"require": {
 		"php": ">=5.3.2",
 		"cakephp/debug_kit": "2.2.*",
-		"cakedc/migrations": "dev-master"
+		"cakedc/migrations": "^2.4"
 	}
 }
