@@ -1,5 +1,5 @@
 {
-	"name": "sams/log_mail",
+	"name": "samso/log_mail",
 	"type": "cakephp-plugin",
 	"description": "LogMail is a quick and dirty plugin to store all mail sent to the database and display latest emails in a DebugKit Panel.",
 	"keywords": ["cakephp", "DebugKit"],
